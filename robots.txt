@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://duyngtr16061999.github.io/sitemap.xml
