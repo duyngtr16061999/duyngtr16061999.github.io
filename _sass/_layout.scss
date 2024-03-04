@@ -34,7 +34,12 @@ body.sticky-bottom-footer {
 .container_clustrmap {
   max-width: 250px;
   text-align: center;
+  margin: 0 auto;
+  
 }
+#clstr_globe {
+    display: inline-block; /* Ensures the script tag behaves like an inline element */
+  }
 
 // Profile
 .profile {
